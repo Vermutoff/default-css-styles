@@ -1,1 +1,148 @@
-/*	Кнопки===========================================*/.btn {	border: none !important;	border-bottom: var(--btn-border) !important;	text-decoration: none !important;}	.btn:hover,	.btn:focus {		border: none !important;		border-bottom: var(--btn-border) !important;	}.btn-yellow,.btn-warning,.btn-yellow:focus,.btn-warning:focus{	color: var(--black) !important;	background-color: var(--yellow) !important;	border-color: var(--dark-yellow) !important;}	.btn-yellow:hover,	.btn-warning:hover	{		color: var(--black) !important;		background-color: var(--light-yellow) !important;		border-color: var(--dark-yellow) !important;	}.btn-success,.btn-success:focus{	color: var(--white) !important;	background-color: var(--green) !important;	border-color: var(--dark-green) !important;}	.btn-success:hover	{		color: var(--white) !important;		background-color: var(--light-green) !important;		border-color: var(--dark-green) !important;	}.btn-danger,.btn-danger:focus{	color: var(--white) !important;	background-color: var(--red) !important;	border-color: var(--dark-red) !important;}.btn-danger:hover{	color: var(--white) !important;	background-color: var(--light-red) !important;	border-color: var(--dark-red) !important;}.btn-primary,.btn-primary:focus{	color: var(--white) !important;	background-color: var(--blue) !important;	border-color: var(--dark-blue) !important;}.btn-primary:hover{	color: var(--white) !important;	background-color: var(--light-blue) !important;	border-color: var(--dark-blue) !important;}.btn-white,.btn-white:focus{	color: var(--black) !important;	background-color: var(--light-white) !important;	border-color: var(--dark-white) !important;}	.btn-white:hover	{		color: var(--black) !important;		background-color: var(--light-white) !important;		border-color: var(--dark-white) !important;	}/*	Transparent Buttons================================================*/.btn-transparent-white,.btn-transparent-white:hover{	border: var(--btn-border) !important;	border-color: var(--white) !important;	color: var(--white) !important;	background: transparent !important;}.btn-transparent-yellow,.btn-transparent-yellow:hover{	border: var(--btn-border) !important;	border-color: var(--yellow) !important;	color: var(--yellow) !important;	background: transparent !important;}.btn-transparent-green,.btn-transparent-green:hover{	border: var(--btn-border) !important;	border-color: var(--green) !important;	color: var(--green) !important;	background: transparent !important;}
+/*	Кнопки
+===========================================*/
+.btn {
+	border: none !important;
+	border-bottom: var(--btn-border) !important;
+	text-decoration: none !important;
+}
+
+	.btn:hover,
+	.btn:focus {
+		border: none !important;
+		border-bottom: var(--btn-border) !important;
+	}
+
+
+.btn-yellow,
+.btn-warning,
+.btn-yellow:focus,
+.btn-warning:focus
+{
+	color: var(--black) !important;
+	background-color: var(--yellow) !important;
+	border-color: var(--dark-yellow) !important;
+}
+
+	.btn-yellow:hover,
+	.btn-warning:hover
+	{
+		color: var(--black) !important;
+		background-color: var(--light-yellow) !important;
+		border-color: var(--dark-yellow) !important;
+	}
+
+
+
+.btn-success,
+.btn-success:focus
+{
+	color: var(--white) !important;
+	background-color: var(--green) !important;
+	border-color: var(--dark-green) !important;
+}
+
+	.btn-success:hover
+	{
+		color: var(--white) !important;
+		background-color: var(--light-green) !important;
+		border-color: var(--dark-green) !important;
+	}
+
+
+
+.btn-danger,
+.btn-danger:focus
+{
+	color: var(--white) !important;
+	background-color: var(--red) !important;
+	border-color: var(--dark-red) !important;
+}
+
+.btn-danger:hover
+{
+	color: var(--white) !important;
+	background-color: var(--light-red) !important;
+	border-color: var(--dark-red) !important;
+}
+
+
+
+.btn-primary,
+.btn-primary:focus
+{
+	color: var(--white) !important;
+	background-color: var(--blue) !important;
+	border-color: var(--dark-blue) !important;
+}
+
+.btn-primary:hover
+{
+	color: var(--white) !important;
+	background-color: var(--light-blue) !important;
+	border-color: var(--dark-blue) !important;
+}
+
+.btn-default,
+.btn-default:focus
+{
+	color: var(--white) !important;
+	background-color: var(--default) !important;
+	border-color: var(--dark-default) !important;
+}
+
+.btn-default:hover
+{
+	color: var(--white) !important;
+	background-color: var(--light-default) !important;
+	border-color: var(--dark-default) !important;
+}
+
+
+.btn-white,
+.btn-white:focus
+{
+	color: var(--black) !important;
+	background-color: var(--light-white) !important;
+	border-color: var(--dark-white) !important;
+}
+
+	.btn-white:hover
+	{
+		color: var(--black) !important;
+		background-color: var(--light-white) !important;
+		border-color: var(--dark-white) !important;
+	}
+
+
+/*	Transparent Buttons
+================================================*/
+.btn-transparent-white,
+.btn-transparent-white:hover
+{
+	border: var(--btn-border) !important;
+	border-color: var(--white) !important;
+	color: var(--white) !important;
+	background: transparent !important;
+}
+
+
+.btn-transparent-yellow,
+.btn-transparent-yellow:hover
+{
+	border: var(--btn-border) !important;
+	border-color: var(--yellow) !important;
+	color: var(--yellow) !important;
+	background: transparent !important;
+}
+
+
+.btn-transparent-green,
+.btn-transparent-green:hover
+{
+	border: var(--btn-border) !important;
+	border-color: var(--green) !important;
+	color: var(--green) !important;
+	background: transparent !important;
+}
+
+
