@@ -1,1 +1,142 @@
-/*	Font Family===========================================*/.roboto {	font-family: Roboto !important;}.calibri {	font-family: Calibri !important;}/*	Font Size===========================================*/.f-s-10		{font-size: 10.5pt !important;}.f-s-12		{font-size: 12pt !important;}.f-s-13		{font-size: 13.5pt !important;}.f-s-14		{font-size: 14pt !important;}.f-s-16		{font-size: 16pt !important;}.f-s-18		{font-size: 18pt !important;}.f-s-20		{font-size: 20pt !important;}.f-s-21		{font-size: 21.5pt !important;}.f-s-22		{font-size: 22pt !important;}.f-s-24		{font-size: 24pt !important;}.f-s-26		{font-size: 26pt !important;}.f-s-28		{font-size: 28pt !important;}.f-s-30		{font-size: 30pt !important;}.f-s-32		{font-size: 32pt !important;}.f-s-34		{font-size: 34pt !important;}.f-s-36		{font-size: 36pt !important;}.f-s-38		{font-size: 38pt !important;}.f-s-40		{font-size: 40pt !important;}.f-s-42		{font-size: 42pt !important;}.f-s-44		{font-size: 44pt !important;}.f-s-46		{font-size: 46pt !important;}.f-s-48		{font-size: 48pt !important;}.f-s-50		{font-size: 50pt !important;}.f-s-52		{font-size: 52pt !important;}.f-s-54		{font-size: 54pt !important;}.f-s-56		{font-size: 56pt !important;}.f-s-58		{font-size: 58pt !important;}.f-s-60		{font-size: 60pt !important;}.f-s-62		{font-size: 62pt !important;}.f-s-64		{font-size: 64pt !important;}.f-s-66		{font-size: 66pt !important;}.f-s-68		{font-size: 68pt !important;}.f-s-70		{font-size: 70pt !important;}.f-s-72		{font-size: 72pt !important;}.f-s-74		{font-size: 74pt !important;}.f-s-76		{font-size: 76pt !important;}.f-s-78		{font-size: 78pt !important;}.f-s-80		{font-size: 80pt !important;}.f-w-200 	{font-weight: 200 !important;}.f-w-300 	{font-weight: 300 !important;}.f-w-400 	{font-weight: 400 !important;}.f-w-500 	{font-weight: 500 !important;}.f-w-600 	{font-weight: 600 !important;}.f-w-700 	{font-weight: 700 !important;}.l-h-100 	{line-height: 100% !important;}.l-h-150 	{line-height: 150% !important;}.l-h-200 	{line-height: 200% !important;}.l-h-250 	{line-height: 250% !important;}.l-h-300 	{line-height: 300% !important;}.l-h-450 	{line-height: 450% !important;}/*	Text Color=============================================*/.white-text 		{ color: var(--white) 	!important; }.black-text 		{ color: var(--black) 	!important; }.yellow-text 		{ color: var(--yellow) 	!important; }.green-text 		{ color: var(--green) 	!important; }.blue-text 			{ color: var(--blue) 	!important; }.red-text 			{ color: var(--red) 	!important; }.dark-white-text 	{ color: var(--dark-white) 		!important; }.dark-black-text 	{ color: var(--dark-black) 		!important; }.dark-yellow-text 	{ color: var(--dark-yellow) 	!important; }.dark-green-text 	{ color: var(--dark-green) 		!important; }.dark-blue-text 	{ color: var(--dark-blue) 		!important; }.dark-red-text 		{ color: var(--dark-red) 		!important; }.light-white-text 	{ color: var(--light-white) 	!important; }.light-black-text 	{ color: var(--light-black) 	!important; }.light-yellow-text 	{ color: var(--light-yellow) 	!important; }.light-green-text 	{ color: var(--light-green) 	!important; }.light-blue-text 	{ color: var(--light-blue) 		!important; }.light-red-text 	{ color: var(--light-red) 		!important; }.white-text-hover:hover 		{ color: var(--white) 	!important; }.black-text-hover:hover		{ color: var(--black) 	!important; }.yellow-text-hover:hover 		{ color: var(--yellow) 	!important; }.green-text-hover:hover 		{ color: var(--green) 	!important; }.blue-text-hover:hover 			{ color: var(--blue) 	!important; }.red-text-hover:hover 			{ color: var(--red) 	!important; }.dark-white-text-hover:hover 	{ color: var(--dark-white) 		!important; }.dark-black-text-hover:hover 	{ color: var(--dark-black) 		!important; }.dark-yellow-text-hover:hover 	{ color: var(--dark-yellow) 	!important; }.dark-green-text-hover:hover 	{ color: var(--dark-green) 		!important; }.dark-blue-text-hover:hover 	{ color: var(--dark-blue) 		!important; }.dark-red-text-hover:hover		{ color: var(--dark-red) 		!important; }.light-white-text-hover:hover 	{ color: var(--light-white) 	!important; }.light-black-text-hover:hover 	{ color: var(--light-black) 	!important; }.light-yellow-text-hover:hover 	{ color: var(--light-yellow) 	!important; }.light-green-text-hover:hover 	{ color: var(--light-green) 	!important; }.light-blue-text-hover:hover 	{ color: var(--light-blue) 		!important; }.light-red-text-hover:hover 	{ color: var(--light-red) 		!important; }
+
+
+
+
+/*	Font Family
+===========================================*/
+.roboto {
+	font-family: Roboto !important;
+}
+
+
+.calibri {
+	font-family: Calibri !important;
+}
+
+
+
+
+/*	Font Size
+===========================================*/
+.f-s-10		{font-size: 10.5pt !important;}
+.f-s-12		{font-size: 12pt !important;}
+.f-s-13		{font-size: 13.5pt !important;}
+.f-s-14		{font-size: 14pt !important;}
+.f-s-16		{font-size: 16pt !important;}
+.f-s-18		{font-size: 18pt !important;}
+.f-s-20		{font-size: 20pt !important;}
+.f-s-21		{font-size: 21.5pt !important;}
+.f-s-22		{font-size: 22pt !important;}
+.f-s-24		{font-size: 24pt !important;}
+.f-s-26		{font-size: 26pt !important;}
+.f-s-28		{font-size: 28pt !important;}
+.f-s-30		{font-size: 30pt !important;}
+.f-s-32		{font-size: 32pt !important;}
+.f-s-34		{font-size: 34pt !important;}
+.f-s-36		{font-size: 36pt !important;}
+.f-s-38		{font-size: 38pt !important;}
+.f-s-40		{font-size: 40pt !important;}
+.f-s-42		{font-size: 42pt !important;}
+.f-s-44		{font-size: 44pt !important;}
+.f-s-46		{font-size: 46pt !important;}
+.f-s-48		{font-size: 48pt !important;}
+.f-s-50		{font-size: 50pt !important;}
+.f-s-52		{font-size: 52pt !important;}
+.f-s-54		{font-size: 54pt !important;}
+.f-s-56		{font-size: 56pt !important;}
+.f-s-58		{font-size: 58pt !important;}
+.f-s-60		{font-size: 60pt !important;}
+.f-s-62		{font-size: 62pt !important;}
+.f-s-64		{font-size: 64pt !important;}
+.f-s-66		{font-size: 66pt !important;}
+.f-s-68		{font-size: 68pt !important;}
+.f-s-70		{font-size: 70pt !important;}
+.f-s-72		{font-size: 72pt !important;}
+.f-s-74		{font-size: 74pt !important;}
+.f-s-76		{font-size: 76pt !important;}
+.f-s-78		{font-size: 78pt !important;}
+.f-s-80		{font-size: 80pt !important;}
+
+
+.f-w-200 	{font-weight: 200 !important;}
+.f-w-300 	{font-weight: 300 !important;}
+.f-w-400 	{font-weight: 400 !important;}
+.f-w-500 	{font-weight: 500 !important;}
+.f-w-600 	{font-weight: 600 !important;}
+.f-w-700 	{font-weight: 700 !important;}
+
+
+.l-h-100 	{line-height: 100% !important;}
+.l-h-150 	{line-height: 150% !important;}
+.l-h-200 	{line-height: 200% !important;}
+.l-h-250 	{line-height: 250% !important;}
+.l-h-300 	{line-height: 300% !important;}
+.l-h-450 	{line-height: 450% !important;}
+
+
+
+/*	Text Color
+=============================================*/
+.white-text,
+.white-text a 		{ color: var(--white) 	!important; }
+.black-text,
+.black-text a		  { color: var(--black) 	!important; }
+.yellow-text,
+.yellow-text a		{ color: var(--yellow) 	!important; }
+.green-text,
+.green-text a 		{ color: var(--green) 	!important; }
+.blue-text,
+.blue-text a		  { color: var(--blue) 	!important; }
+.red-text,
+.red-text a 		  { color: var(--red) 	!important; }
+.grey-text,
+.grey-text a 		  { color: var(--grey) 	!important; }
+
+
+.dark-white-text,
+.dark-white-text a 	{ color: var(--dark-white) 		!important; }
+.dark-black-text,
+.dark-black-text a 	{ color: var(--dark-black) 		!important; }
+.dark-yellow-text,
+.dark-yellow-text a	{ color: var(--dark-yellow) 	!important; }
+.dark-green-text,
+.dark-green-text a	{ color: var(--dark-green) 		!important; }
+.dark-blue-text,
+.dark-blue-text a	  { color: var(--dark-blue) 		!important; }
+.dark-red-text,
+.dark-red-text a 	  { color: var(--dark-red) 		!important; }
+.dark-grey-text,
+.dark-grey-text a	  { color: var(--dark-grey) 		!important; }
+
+
+.light-white-text 	{ color: var(--light-white) 	!important; }
+.light-black-text 	{ color: var(--light-black) 	!important; }
+.light-yellow-text 	{ color: var(--light-yellow) 	!important; }
+.light-green-text 	{ color: var(--light-green) 	!important; }
+.light-blue-text 	{ color: var(--light-blue) 		!important; }
+.light-red-text 	{ color: var(--light-red) 		!important; }
+
+
+.white-text-hover:hover 		{ color: var(--white) 	!important; }
+.black-text-hover:hover		{ color: var(--black) 	!important; }
+.yellow-text-hover:hover 		{ color: var(--yellow) 	!important; }
+.green-text-hover:hover 		{ color: var(--green) 	!important; }
+.blue-text-hover:hover 			{ color: var(--blue) 	!important; }
+.red-text-hover:hover 			{ color: var(--red) 	!important; }
+
+
+.dark-white-text-hover:hover 	{ color: var(--dark-white) 		!important; }
+.dark-black-text-hover:hover 	{ color: var(--dark-black) 		!important; }
+.dark-yellow-text-hover:hover 	{ color: var(--dark-yellow) 	!important; }
+.dark-green-text-hover:hover 	{ color: var(--dark-green) 		!important; }
+.dark-blue-text-hover:hover 	{ color: var(--dark-blue) 		!important; }
+.dark-red-text-hover:hover		{ color: var(--dark-red) 		!important; }
+
+
+.light-white-text-hover:hover 	{ color: var(--light-white) 	!important; }
+.light-black-text-hover:hover 	{ color: var(--light-black) 	!important; }
+.light-yellow-text-hover:hover 	{ color: var(--light-yellow) 	!important; }
+.light-green-text-hover:hover 	{ color: var(--light-green) 	!important; }
+.light-blue-text-hover:hover 	{ color: var(--light-blue) 		!important; }
+.light-red-text-hover:hover 	{ color: var(--light-red) 		!important; }
+
